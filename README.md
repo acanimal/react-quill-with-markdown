@@ -1,2 +1,3 @@
 # react-quill-with-markdown
-Created with CodeSandbox
+
+Sample using `react-quill` editor to import/export markdown text format.
